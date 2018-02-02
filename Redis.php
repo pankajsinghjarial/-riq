@@ -1,4 +1,7 @@
 <?php
+/*
+ * Redis_Lib class
+ * */
 class Redis_Lib {
      
     private $host = null, $port = null;
